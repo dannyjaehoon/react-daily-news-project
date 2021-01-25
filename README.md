@@ -1,1 +1,1 @@
-# react-Daily-news-project
+# Daily news project
